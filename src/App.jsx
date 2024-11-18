@@ -45,6 +45,7 @@ import InternetDetail from './pages/fasilitas/InternetDetail';
 
 function App() {
   return (
+    <div>Hello, world!</div>;
     <Router>
       <LoginProvider>
         <div className="App" style={{ background: '#1a1a2e' }}>
